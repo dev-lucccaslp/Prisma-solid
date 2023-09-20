@@ -21,7 +21,11 @@
     "typescript": "5.2.2"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@prisma/client": "5.2.0",
+=======
+    "@prisma/client": "5.3.1",
+>>>>>>> 6278e62e985a4622d968846609832ec76ca0a8a2
     "dotenv": "16.3.1",
     "fastify": "4.22.0",
     "zod": "3.22.2"
